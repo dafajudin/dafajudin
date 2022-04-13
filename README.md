@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dafajudin&label=Profile%20views&color=0e75b6&style=flat" alt="dafajudin" /> </p>
 
-- 🌱 I’m currently learning **GOLang**
+- 🌱 I’m currently learning **GoLang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
