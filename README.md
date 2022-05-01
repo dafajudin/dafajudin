@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Judin</h1>
-<h3 align="center">A Student Informatic from Indonesia</h3>
+<h3 align="center">Student Informatic at Telkom University from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dafajudin&label=Profile%20views&color=0e75b6&style=flat" alt="dafajudin" /> </p>
 
