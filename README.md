@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Judin, a infromatis students 👨‍💻 </div>  
+### <div align="center">I'm Judin, a infromatics students 👨‍💻 </div>  
   
 
 - 🔭 I’m currently learning Golang language  
