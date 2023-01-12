@@ -42,7 +42,7 @@ I'm a students in informatics 🎓 from Telkom University University 🏛.I love
 ### Dev Stuffs:
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" height="250" width="300" />
+<img src="https://komarev.com/ghpvc/?username=dafajudin&&style=flat-square" align="center" />
 </div>  
-  
+
 #
