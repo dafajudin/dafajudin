@@ -5,7 +5,7 @@
 
 ### Glad to see you here ! &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dafajudin.visitor-badge)
 
-I'm a students in informatics 🎓 from Telkom University University 🏛.I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm  Web Development enthusiast 🕸️.
+I'm a students in informatics 🎓 from Telkom  University 🏛.I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm  Web Development enthusiast 🕸️.
 
 ### Joined Github **1** years ago.
 
