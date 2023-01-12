@@ -39,10 +39,4 @@ I'm a students in informatics 🎓 from Telkom University University 🏛.I love
 <code><img height="27" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDD"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
 
-### Dev Stuffs:
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dafajudin&&style=flat-square" align="center" />
-</div>  
-
 #
