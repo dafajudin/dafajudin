@@ -17,7 +17,7 @@ I'm a students in informatics 🎓 from Telkom University University 🏛.I love
 
 - 🛠 &nbsp; I’m currently working with Golang, Html, <br />MySql, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Web Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/dafajudin](https://github.com/dafajudin?tab=repositories)).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dafajudin?tab=repositories).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: dafasirajudin@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/16wZRGA25o-rOK5_Y1TyBSUNkiGKCSUvW/view?usp=sharing).
