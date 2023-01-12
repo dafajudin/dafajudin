@@ -45,7 +45,7 @@ I'm a students in informatics 🎓 from Telkom University University 🏛.I love
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
- [![GitHub Streak](https://streak-stats.demolab.com/?user=dafajudin)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 </details>
 
 #
