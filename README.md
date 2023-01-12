@@ -15,7 +15,7 @@ I'm a students in informatics 🎓 from Telkom University University 🏛.I love
 
 ## Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Golang, Html, JS, <br />MySql, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Golang, Html, <br />MySql, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Web Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dafajudin).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
