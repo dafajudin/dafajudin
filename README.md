@@ -25,7 +25,7 @@ I'm a students in informatics 🎓 from Telkom  University 🏛.I love to explor
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
