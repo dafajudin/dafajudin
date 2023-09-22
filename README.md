@@ -26,7 +26,6 @@ I'm a students in informatics 🎓 from Telkom  University 🏛.I love to explor
 
 ### Languages and Tools:
 
-<code><img height="27" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="Html"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="Css"></code>
