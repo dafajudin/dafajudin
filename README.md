@@ -13,8 +13,8 @@ I'm a students in informatics 🎓 from Telkom  University 🏛.I love to explor
 
 ## Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Golang, Html, <br />MySql, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Web Development.
+- 🛠 &nbsp; I’m currently working with Laravel, Javascript, etc.
+- 🚀 &nbsp; I’m currently Focus on Web Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dafajudin?tab=repositories).
 - 📫 &nbsp; How to reach me: dafasirajudin@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/16wZRGA25o-rOK5_Y1TyBSUNkiGKCSUvW/view?usp=sharing).
