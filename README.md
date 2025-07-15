@@ -8,7 +8,7 @@
 
 ### 🧭 About Me
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<!-- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" /> -->
 
 I'm a passionate **Data Analyst** who loves turning raw data into meaningful insights. I enjoy building dashboards, automating reports, and communicating data-driven stories to support decision making.
 
