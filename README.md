@@ -34,19 +34,11 @@ I'm a passionate **Data Analyst** who loves turning raw data into meaningful ins
 
 ### 📊 My Recent Projects
 
-- 🔍 **Customer Churn Analysis**
-  Predicted churn using logistic regression and decision trees.
-  *Tools: Python (Pandas, Scikit-learn), Tableau*
-
-- 📦 **Shooping Trends Analysis Dashboard**
+-  🛍️  **Customer Shopping Trends Dashboar**
   Built a dynamic dashboard for visualize monthly sales and identify customer shopping behavior trends.
   *Tools: Excel, Power BI*
 
-- 🚕 **Uber Trips Analysis**
-  Analyzed time-based patterns of Uber rides in NYC.
-  *Tools: SQL, Power BI, DAX*
-
-➡️ Check out more on my [Repositories](https://github.com/dafajudin?tab=repositories)
+<!-- ➡️ Check out more on my [Repositories](https://github.com/dafajudin?tab=repositories) -->
 
 ---
 
