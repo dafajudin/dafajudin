@@ -1,37 +1,67 @@
-## Hey 👋, I'm Muhammad Dafa Sirajudin !
+<h1 align="center">Hi there! 👋 I'm Dafa</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mdafasirajudin/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mdafasirajudin/)
+<p align="center">
+  📊 Data Analyst | 📈 Data Storyteller | 🧠 Insight Seeker
+</p>
 
-### Glad to see you here ! &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dafajudin.visitor-badge)
+---
 
-I'm a students in informatics 🎓 from Telkom  University 🏛.I love to explore new technologies and leverage them to solve real-life problems ✨.I'm  Web Development enthusiast 🕸️.
-
-<!-- Since then I pushed **2538**+ commits, opened **229**+ issues, submitted **280**+ pull requests, created **20**+ gists and contributed to **25**+ public repositories. -->
+### 🧭 About Me
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-## Talking about Personal Stuffs:
+I'm a passionate **Data Analyst** who loves turning raw data into meaningful insights. I enjoy building dashboards, automating reports, and communicating data-driven stories to support decision making.
 
-- 🛠 &nbsp; I’m currently working with Laravel, Javascript, etc.
-- 🚀 &nbsp; I’m currently Focus on Web Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dafajudin?tab=repositories).
-- 📫 &nbsp; How to reach me: dafasirajudin@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/16wZRGA25o-rOK5_Y1TyBSUNkiGKCSUvW/view?usp=sharing).
+- 🎓 Background in Computer Science
+- 🌱 Currently learning: **Advanced SQL**, **Data Engineering Basics**, and **Data Analysts**
+- 🧠 Interested in **Business Intelligence**, **Data Visualization**, and **Predictive Analytics**
+- 📬 How to reach me: [LinkedIn](https://linkedin.com/in/mdafasirajudin)
 
-### My Absolute Favorites:
+---
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading tech blogs whenever possible.
+### 🛠️ Tools & Technologies
 
-### Languages and Tools:
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="Html"></code>
-<code><img height="27" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="Css"></code>
-<code><img height="27" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap"></code>
-<code><img height="27" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySql"></code>
-<code><img height="27" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDD"></code>
-<code><img height="27" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
+---
 
-#
+### 📊 My Recent Projects
+
+- 🔍 **Customer Churn Analysis**
+  Predicted churn using logistic regression and decision trees.
+  *Tools: Python (Pandas, Scikit-learn), Tableau*
+
+- 📦 **Shooping Trends Analysis Dashboard**
+  Built a dynamic dashboard for visualize monthly sales and identify customer shopping behavior trends.
+  *Tools: Excel, Power BI*
+
+- 🚕 **Uber Trips Analysis**
+  Analyzed time-based patterns of Uber rides in NYC.
+  *Tools: SQL, Power BI, DAX*
+
+➡️ Check out more on my [Repositories](https://github.com/dafajudin?tab=repositories)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername's GitHub stats"/>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm always open to collaborating on data projects or just talking about data!
+Feel free to connect:
+
+- 💼 [LinkedIn](https://linkedin.com/in/mdafasirajudin)
+---
