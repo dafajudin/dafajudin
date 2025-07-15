@@ -44,9 +44,23 @@ I'm a passionate **Data Analyst** who loves turning raw data into meaningful ins
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername's GitHub stats"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dafajudin&theme=radical&hide_border=false&include_all_commits=true&count_private=true" 
+           alt="GitHub stats for dafajudin" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=dafajudin&theme=radical&hide_border=false" 
+           alt="GitHub contribution streak for dafajudin" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafajudin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+           alt="Top programming languages used by dafajudin on GitHub" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
