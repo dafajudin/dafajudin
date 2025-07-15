@@ -47,8 +47,8 @@ I'm a passionate **Data Analyst** who loves turning raw data into meaningful ins
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dafajudin&theme=radical&hide_border=false&include_all_commits=true&count_private=true" 
-           alt="GitHub stats for dafajudin" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dafajudin&show_icons=true&theme=radical&hide_border=false" 
+     alt="GitHub stats for dafajudin" />
     </td>
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=dafajudin&theme=radical&hide_border=false" 
